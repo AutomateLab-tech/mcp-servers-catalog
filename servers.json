@@ -28696,6 +28696,24 @@
     "npm_install": ""
   },
   {
+    "name": "azeemkafridi/bulkpublish-api",
+    "url": "https://github.com/azeemkafridi/bulkpublish-api",
+    "source_host": "github",
+    "category": "Marketing",
+    "description": "Plan, review, schedule, and publish social media posts through BulkPublish. Supports a hosted MCP endpoint and a local stdio client. Requires a BulkPublish API key.",
+    "languages": [
+      "typescript"
+    ],
+    "scopes": [
+      "cloud"
+    ],
+    "operating_systems": [],
+    "is_official": false,
+    "has_glama_badge": false,
+    "glama_server_path": "",
+    "npm_install": ""
+  },
+  {
     "name": "BlockRunAI/x-grow",
     "url": "https://github.com/BlockRunAI/x-grow",
     "source_host": "github",

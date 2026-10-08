@@ -21,9 +21,9 @@ pretty_name: MCP Servers Catalog
 
 # MCP Servers Catalog
 
-A structured, machine-readable catalog of **2,223 MCP (Model Context Protocol) servers** extracted from the curated [awesome-mcp-servers](https://github.com/AutomateLab-tech/awesome-mcp-servers) list. Covers 49 categories with language, scope, OS, and officiality metadata for each server.
+A structured, machine-readable catalog of **2,224 MCP (Model Context Protocol) servers** extracted from the curated [awesome-mcp-servers](https://github.com/AutomateLab-tech/awesome-mcp-servers) list. Covers 49 categories with language, scope, OS, and officiality metadata for each server.
 
-Updated monthly. Last updated: 2026-05.
+Updated monthly. Last updated: 2026-10 (BulkPublish addition; base snapshot: 2026-05).
 
 ## Dataset Summary
 
@@ -45,7 +45,7 @@ Existing MCP directories (glama.ai, mcp.so) are web-browsable but not machine-qu
 
 | Metric | Count |
 |---|---|
-| Total servers | 2,223 |
+| Total servers | 2,224 |
 | Categories | 49 |
 | Official servers | 122 |
 | Servers with Glama quality badge | 857 |
@@ -53,9 +53,9 @@ Existing MCP directories (glama.ai, mcp.so) are web-browsable but not machine-qu
 
 **Top categories:** Developer Tools (327), Finance & Fintech (273), Other Tools and Integrations (162), Knowledge & Memory (159), Search & Data Extraction (140)
 
-**Languages:** TypeScript (1,114), Python (776), Go (131), Rust (56), Java (23), C# (17)
+**Languages:** TypeScript (1,115), Python (776), Go (131), Rust (56), Java (23), C# (17)
 
-**Scope:** Cloud (1,243), Local (1,124), Embedded (16)
+**Scope:** Cloud (1,244), Local (1,124), Embedded (16)
 
 ## Files
 
