@@ -166,3 +166,13 @@ Attribution: *Upstream server listings from the awesome-mcp-servers community li
 ## Maintainer
 
 [AutomateLab](https://automatelab.tech) - AI automation guides and tools.
+
+## Maintenance and verification
+
+See [the maintenance guide](docs/maintenance-guide.md) for interpretation limits, current tool names where applicable, and reproducible verification.
+
+## October 2026 snapshot
+
+4,210 records across 58 categories, parsed from punkpeye/awesome-mcp-servers at cc7f1f42c3fa8ced6fd5c0e02ea366ef7ed8cf1b. Listings are not security or health endorsements.
+
+Snapshot prepared 12 October 2026. Publication time is recorded separately in the release receipt.
